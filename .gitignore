@@ -57,3 +57,4 @@ cmake-build-debug/
 ./Trajectory_backup(features=10000)
 ./association_mask_generator.py
 ./generate_dynamic_masks.ipynb
+./Association
