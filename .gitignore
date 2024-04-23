@@ -51,8 +51,8 @@ cmake-build-debug/
 
 .vscode/
 
-./Trajectory
-./Association
+./Trajectory/*
+./Association/*
 ./Trajectory_backup(features=2500)
 ./Trajectory_backup(features=10000)
 ./association_mask_generator.py
